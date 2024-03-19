@@ -1,0 +1,48 @@
+.receta-div {
+    background-color: #f3f3f3;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.receta-seccion-titulo-post{
+    display: flex; 
+    justify-content: center; 
+    margin-bottom: 20px;
+}
+.receta-titulo-post {
+    font-size: 24px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.receta-seccion {
+    background-color: #ffffff;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.receta-fecha {
+    color: #666;
+    font-size: 12px;
+    margin-bottom: 10px;
+}
+
+.receta-subtitulo {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+.receta-contenido,
+.receta-ingredientes,
+.receta-instrucciones,
+.receta-tiempo {
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
+
